@@ -9,7 +9,7 @@ export default function AdminDashboard() {
     <Header/>
     <div className="flex h-screen bg-gray-50">
       {/* Sidebar */}
-        <Sidebar/>
+        <Sidebar />
 
       {/* Main content */}
       <div className="flex flex-col flex-1">
